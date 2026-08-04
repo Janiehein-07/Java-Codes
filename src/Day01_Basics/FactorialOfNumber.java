@@ -1,3 +1,4 @@
+package Day01_Basics;
 import java.util.Scanner;
 class FactorialOfNumber{
     public static void main(String[] args){
